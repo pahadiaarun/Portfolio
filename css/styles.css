@@ -199,6 +199,10 @@ h2{
     margin: 10px 20px;
     text-decoration: none;
 }
+.footer-link:hover {
+  text-decoration: underline;
+  color: white;
+}
 h3 {
     margin: 10px;
     font-family: 'Montserrat', sans-serif;
