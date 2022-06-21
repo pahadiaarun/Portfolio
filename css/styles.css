@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    color: #40514E;
+    line-height: 2;
+    overflow-x: hidden;
+}
+/* .top{
+    margin-bottom: 20px;
+} */
+.div1{
+    background-color: #c1e8f8;
+    padding-top: 50px;
+}
+.devimg{
+    margin: auto;
+    height: 300px;
+    width: 300px;
+}
+.div2{
+    
+}
+.div3{
+    background-color: #11999E;
+    margin-top: 100px;
+    padding: 10px;
+}
+h1{
+    margin: 20px auto 0 auto;;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    color: #66BFBF;
+}
+.pro{
+    text-decoration: underline;
+    color: rgb(181 49 146);
+}
+.self{
+    margin: 100px auto auto auto;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid gold;
+}
+hr{
+    border: dotted #EAF6F6 10px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+h2{
+    margin: 20px auto 20px auto;
+    padding-bottom: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: bold;
+}
+.webD{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid gold;
+    float: left;
+    margin-right: 90px;
+}
+.cpp{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    border: 2px solid gold;
+    float: right;
+    margin-left: 90px;
+}
+.about{
+    margin: 0px auto 5px auto;
+    padding: 0;
+}
+.btn{
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.FT {
+    width: 400px;
+    height: 150px;
+    margin: 25px;
+}
+.aes, .dtu{
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    border-radius: 50%;
+    margin: 2rem;
+}
+.web-para, .cpp-para, .cdg{
+    font-size: medium;
+}
+.lc, .cc, .cf, .gfg, .hr{
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 15px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.skills{
+    width: 75%;
+    margin: auto;
+}
+.Experience,.edu{
+    display: flex;
+}
+.Fav-row , ._DTU , .Grip-row , ._AES{
+    width: 35%;
+    margin: 10px auto;
+}
+.skill-row{
+    margin: 50px auto 100px auto;
+    text-align: left;
+}
+.cr{
+    margin-bottom: 0;
+    font-size: 18px;
+    color: white;
+}
+.footer-link{
+    font-size: 22px;
+    color: black;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+h3 {
+    margin: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+.cdg{
+    margin: 0px auto 30px auto;
+    width: 80%;
+}
