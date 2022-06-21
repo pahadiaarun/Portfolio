@@ -10,6 +10,12 @@ body{
 /* .top{
     margin-bottom: 20px;
 } */
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
 .div1{
     background-color: #c1e8f8;
     padding-top: 50px;
@@ -183,6 +189,19 @@ h2{
 .Fav-row , ._DTU , .Grip-row , ._AES{
     width: 35%;
     margin: 10px auto;
+}
+.cpplink , .griplink {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: orange;
+}
+.cpplink:hover{
+    color: #007bff;
+    text-decoration: underline;
+}
+.griplink:hover{
+    color: #007bff;
+    text-decoration: underline;
 }
 .skill-row{
     margin: 50px auto 100px auto;
